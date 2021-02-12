@@ -1,10 +1,13 @@
-### Hi there 👋
+@@ -1,16 +1,9 @@
+[![Github Status](https://github-readme-stats.vercel.app/api?username=ThePhilosopher4097&show_icons=true&title_color=FBFF00&icon_color=21C500&text_color=FFFC4A&bg_color=000)](https://github.com/ThePhilosopher4097)
+<div>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhilosopher4097&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
 
 <!--
 **ThePhilosopher4097/ThePhilosopher4097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThePhilosopher4097&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
