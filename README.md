@@ -120,11 +120,11 @@ You can click the Preview link to take a look at your changes.
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
 
-  <a href="https://www.codechef.com/users/ajmatics" >
+  <a href="https://www.codechef.com/users/" >
     <img align="center" alt="ajmatics1007 | Codechef" width="50px" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" />
   </a> &nbsp;&nbsp;
 
-<a href="https://leetcode.com/ajmatics/" >
+<a href="https://leetcode.com/" >
     <img align="center" alt="ThePhilosopher4097 | LeetCode" width="20px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
   </a> &nbsp;&nbsp;
   
