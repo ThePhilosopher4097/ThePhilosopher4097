@@ -169,7 +169,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=900&lines=Hasta+la+vista!!;Life is big enough to work for and yet too short to think upon !" alt="Title"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=900&lines=Hasta+la+vista!!;Life is big enough to work for and yet too short to think upon !" alt="It is an Amazing day!"></img>
   
 </div>
 
